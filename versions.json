@@ -8,11 +8,16 @@
     ]
   },
   {
-    "version": "3.0.0-RC1",
-    "title": "3.0.0-RC1",
+    "version": "3.0.3",
+    "title": "3.0.3",
     "aliases": [
       "3.0"
     ]
+  },
+  {
+    "version": "3.0.0-RC1",
+    "title": "3.0.0-RC1",
+    "aliases": []
   },
   {
     "version": "3.0.0-RC0",
